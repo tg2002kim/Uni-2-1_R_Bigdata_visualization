@@ -1,0 +1,480 @@
+Source.Name,¼Ó¼º,DeployLocationID,Tag,AreaObjectID,#Territory:Position_X,#Territory:Position_Y,Territory:TerritoryType,Territory:Position,Territory:Radius,Territory:Direction
+db_area_1141_deploy_location.xlsm,b_0,1,[SoloBoss] »þ¸£Äí,42050,35,32,Position,"{""X"":35, ""Y"":32}",0,180
+db_area_1141_deploy_location.xlsm,b_0,2,Å¸¿ö_¹«Àû,70002,28,41,Position,"{""X"":28,""Y"":41}",0,180
+db_area_1141_deploy_location.xlsm,b_0,3,Å¸¿ö_¹«Àû,70002,44,41,Position,"{""X"":44,""Y"":41}",0,180
+db_area_1151_deploy_location.xlsm,b_0,1,[SoloBoss] ¹Ù½ºÅ×Æ®,42060,33,25,Position,"{""X"":33, ""Y"":25}",0,180
+db_area_1151_deploy_location.xlsm,b_0,2,ÄÚºê¶ó,32060,18,28,Position,"{""X"":18, ""Y"":28}",0,180
+db_area_1151_deploy_location.xlsm,b_0,3,ÄÚºê¶ó,32060,26,37,Position,"{""X"":26, ""Y"":37}",0,180
+db_area_1151_deploy_location.xlsm,b_0,4,ÄÚºê¶ó,32060,42,38,Position,"{""X"":42, ""Y"":38}",0,180
+db_area_1151_deploy_location.xlsm,b_0,5,ÄÚºê¶ó,32060,50,29,Position,"{""X"":50, ""Y"":29}",0,180
+db_area_1151_deploy_location.xlsm,b_0,6,Å¸¿ö-¹«Àû,70002,21,33,Position,"{""X"":21,""Y"":33}",0,180
+db_area_1151_deploy_location.xlsm,b_0,7,Å¸¿ö-¹«Àû,70002,37,33,Position,"{""X"":21,""Y"":33}",0,180
+db_area_1351_deploy_location.xlsm,b_0,1,Boss µå·¡°ï,42070,36,31,Position,"{""X"":36, ""Y"":31}",0,180
+db_area_1351_deploy_location.xlsm,b_0,2,¹Ì´Ï¿ë(¿ÞÂÊ),32030,19,30,Position,"{""X"":19, ""Y"":30}",0,180
+db_area_1351_deploy_location.xlsm,b_0,3,¹Ì´Ï¿ë(¿À¸¥ÂÊ),32030,50,40,Position,"{""X"":50, ""Y"":40}",0,180
+db_area_1351_deploy_location.xlsm,b_0,4,¹Ì´Ï¿ë(¿ÞÂÊ),32030,25,45,Position,"{""X"":25, ""Y"":45}",0,180
+db_area_1351_deploy_location.xlsm,b_0,5,¹Ì´Ï¿ë(¿À¸¥ÂÊ),32030,51,32,Position,"{""X"":51, ""Y"":32}",0,180
+db_area_1351_deploy_location.xlsm,b_0,6,¹Ì´Ï¿ë(Áß¾ÓµÚÂÊ),32030,38,46,Position,"{""X"":38, ""Y"":46}",0,180
+db_area_1351_deploy_location.xlsm,b_0,7,Å¸¿ö_¹«Àû,70002,29,37,Position,"{""X"":18,""Y"":44}",0,180
+db_area_1351_deploy_location.xlsm,b_0,8,Å¸¿ö_¹«Àû,70002,44,37,Position,"{""X"":33,""Y"":44}",0,180
+db_area_1351_deploy_location.xlsm,b_0,9,Å¸¿ö_¹«Àû,70002,29,26,Position,"{""X"":18,""Y"":33}",0,180
+db_area_1351_deploy_location.xlsm,b_0,10,Å¸¿ö_¹«Àû,70002,44,26,Position,"{""X"":33,""Y"":33}",0,180
+db_area_1541_deploy_location.xlsm,b_0,1,[SoloBoss] »þ¸£Äí,42050,35,32,Position,"{""X"":35, ""Y"":32}",0,180
+db_area_1541_deploy_location.xlsm,b_0,2,Å¸¿ö_¹«Àû,70002,28,41,Position,"{""X"":28,""Y"":41}",0,180
+db_area_1541_deploy_location.xlsm,b_0,3,Å¸¿ö_¹«Àû,70002,44,41,Position,"{""X"":44,""Y"":41}",0,180
+db_area_411_deploy_location.xlsm,b_0,1,°¡¿îµ¥ - ½½¶óÀÓ º¸½º,42000,22,21,Position,"{""X"":22,""Y"":21}",0,180
+db_area_411_deploy_location.xlsm,b_0,2,ÁÂÃø1 - ½½¶óÀÓÂÌ,32000,17,28,Position,"{""X"":17,""Y"":28}",0,180
+db_area_411_deploy_location.xlsm,b_0,3,ÁÂÃø2 - ½½¶óÀÓÂÌ,32000,12,23,Position,"{""X"":12,""Y"":23}",0,180
+db_area_411_deploy_location.xlsm,b_0,4,ÁÂÃø3 - ½½¶óÀÓÂÌ,32000,9,17,Position,"{""X"":9,""Y"":17}",0,180
+db_area_411_deploy_location.xlsm,b_0,5,¿ìÃø1 - ½½¶óÀÓÁ¹,32000,27,29,Position,"{""X"":27,""Y"":29}",0,180
+db_area_411_deploy_location.xlsm,b_0,6,¿ìÃø2 - ½½¶óÀÓÂÌ,32000,33,23,Position,"{""X"":33,""Y"":23}",0,180
+db_area_411_deploy_location.xlsm,b_0,7,¿ìÃø3 - ½½¶óÀÓÂÌ,32000,37,18,Position,"{""X"":37,""Y"":18}",0,180
+db_area_411_deploy_location.xlsm,b_0,8,°¡½Ã 1,70001,18,30,Square,"{""X"":18,""Y"":30}",1,180
+db_area_411_deploy_location.xlsm,b_0,9,°¡½Ã 1,70001,36,27,Square,"{""X"":36,""Y"":27}",1,180
+db_area_411_deploy_location.xlsm,b_0,10,°¡½Ã 1,70001,29,35,Square,"{""X"":29,""Y"":35}",1,180
+db_area_411_deploy_location.xlsm,b_0,11,°¡½Ã 1,70001,12,17,Square,"{""X"":12,""Y"":17}",1,180
+db_area_411_deploy_location.xlsm,b_0,12,°¡½Ã 1,70001,8,26,Square,"{""X"":8,""Y"":26}",1,180
+db_area_411_deploy_location.xlsm,b_0,13,°¡½Ã 1,70001,11,36,Square,"{""X"":11,""Y"":36}",1,180
+db_area_411_deploy_location.xlsm,b_0,14,°¡½Ã 1,70001,35,16,Square,"{""X"":35,""Y"":16}",1,180
+db_area_411_deploy_location.xlsm,b_0,15,°¡½Ã 1,70001,29,26,Square,"{""X"":29,""Y"":26}",1,180
+db_area_411_deploy_location.xlsm,b_0,16,°¡½Ã 1,70001,25,19,Square,"{""X"":25,""Y"":19}",1,180
+db_area_412_deploy_location.xlsm,b_0,1,[SoloBoss] ºÓÀº ¸äµÅÁö,40100,42,32,Square,"{""X"":42, ""Y"":32}",2,180
+db_area_412_deploy_location.xlsm,b_0,2,ÁÂÃø »ó´Ü 1 - ²Ü¹ú,30092,20,45,Square,"{""X"":20, ""Y"":45}",2,180
+db_area_412_deploy_location.xlsm,b_0,3,ÁÂÃø »ó´Ü 2 - ²ÉµÅÁö,30093,24,50,Square,"{""X"":24, ""Y"":50}",2,180
+db_area_412_deploy_location.xlsm,b_0,4,¿ìÃø »ó´Ü 1 - ²É,30094,61,40,Square,"{""X"":61, ""Y"":40}",2,180
+db_area_412_deploy_location.xlsm,b_0,5,¿ìÃø »ó´Ü 2 - ²ÉµÅÁö,30093,64,36,Square,"{""X"":64, ""Y"":36}",2,180
+db_area_412_deploy_location.xlsm,b_0,6,ÁÂÃø ÇÏ´Ü 1 - ²É,30094,19,19,Square,"{""X"":19, ""Y"":19}",2,180
+db_area_412_deploy_location.xlsm,b_0,7,ÁÂÃø ÇÏ´Ü 2 - ²ÉµÅÁö,30093,25,18,Square,"{""X"":25, ""Y"":18}",2,180
+db_area_412_deploy_location.xlsm,b_0,8,¿ìÃø ÇÏ´Ü 1 - ²Ü¹ú,30092,58,20,Square,"{""X"":58, ""Y"":20}",2,180
+db_area_412_deploy_location.xlsm,b_0,9,¿ìÃø ÇÏ´Ü 2 - ²ÉµÅÁö,30093,55,18,Square,"{""X"":55, ""Y"":18}",2,180
+db_area_413_deploy_location.xlsm,b_0,1,[SoloBoss] ºÓÀº ¸äµÅÁö,40100,42,32,Square,"{""X"":42, ""Y"":32}",2,180
+db_area_413_deploy_location.xlsm,b_0,2,ÁÂÃø »ó´Ü 1 - ²Ü¹ú,30092,20,45,Square,"{""X"":20, ""Y"":45}",2,180
+db_area_413_deploy_location.xlsm,b_0,3,ÁÂÃø »ó´Ü 2 - ²ÉµÅÁö,30093,24,50,Square,"{""X"":24, ""Y"":50}",2,180
+db_area_413_deploy_location.xlsm,b_0,4,¿ìÃø »ó´Ü 1 - ²É,30094,61,40,Square,"{""X"":61, ""Y"":40}",2,180
+db_area_413_deploy_location.xlsm,b_0,5,¿ìÃø »ó´Ü 2 - ²ÉµÅÁö,30093,64,36,Square,"{""X"":64, ""Y"":36}",2,180
+db_area_413_deploy_location.xlsm,b_0,6,ÁÂÃø ÇÏ´Ü 1 - ²É,30094,19,19,Square,"{""X"":19, ""Y"":19}",2,180
+db_area_413_deploy_location.xlsm,b_0,7,ÁÂÃø ÇÏ´Ü 2 - ²ÉµÅÁö,30093,25,18,Square,"{""X"":25, ""Y"":18}",2,180
+db_area_413_deploy_location.xlsm,b_0,8,¿ìÃø ÇÏ´Ü 1 - ²Ü¹ú,30092,58,20,Square,"{""X"":58, ""Y"":20}",2,180
+db_area_413_deploy_location.xlsm,b_0,9,¿ìÃø ÇÏ´Ü 2 - ²ÉµÅÁö,30093,55,18,Square,"{""X"":55, ""Y"":18}",2,180
+db_area_414_deploy_location.xlsm,b_0,1,[SoloBoss] ½½¶óÀÓ,40010,35,51,Position,"{""X"":35, ""Y"":51}",3,180
+db_area_414_deploy_location.xlsm,b_0,2,"½½¶óÀÓ[1,2,3,4wave]",30010,50,49,Position,"{""X"":50, ""Y"":49}",3,180
+db_area_414_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[2,3,4wave]",30010,45,54,Position,"{""X"":45, ""Y"":54}",3,180
+db_area_414_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[2,3,4wave]",30010,20,42,Position,"{""X"":20, ""Y"":42}",3,180
+db_area_414_deploy_location.xlsm,b_0,5,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,16,48,Position,"{""X"":16, ""Y"":48}",3,180
+db_area_414_deploy_location.xlsm,b_0,6,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,17,53,Position,"{""X"":17, ""Y"":53}",3,180
+db_area_414_deploy_location.xlsm,b_0,7,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,47,39,Position,"{""X"":47, ""Y"":39}",3,180
+db_area_415_deploy_location.xlsm,b_0,1,[SoloBoss] ½½¶óÀÓ,40010,35,51,Position,"{""X"":35, ""Y"":51}",3,180
+db_area_415_deploy_location.xlsm,b_0,2,"½½¶óÀÓ[1,2,3,4wave]",30010,50,49,Position,"{""X"":50, ""Y"":49}",3,180
+db_area_415_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[2,3,4wave]",30010,45,54,Position,"{""X"":45, ""Y"":54}",3,180
+db_area_415_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[2,3,4wave]",30010,20,42,Position,"{""X"":20, ""Y"":42}",3,180
+db_area_415_deploy_location.xlsm,b_0,5,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,16,48,Position,"{""X"":16, ""Y"":48}",3,180
+db_area_415_deploy_location.xlsm,b_0,6,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,17,53,Position,"{""X"":17, ""Y"":53}",3,180
+db_area_415_deploy_location.xlsm,b_0,7,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,47,39,Position,"{""X"":47, ""Y"":39}",3,180
+db_area_416_deploy_location.xlsm,b_0,1,[SoloBoss] ½½¶óÀÓ,40010,35,51,Position,"{""X"":35, ""Y"":51}",3,180
+db_area_416_deploy_location.xlsm,b_0,2,"½½¶óÀÓ[1,2,3,4wave]",30010,50,49,Position,"{""X"":50, ""Y"":49}",3,180
+db_area_416_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[2,3,4wave]",30010,45,54,Position,"{""X"":45, ""Y"":54}",3,180
+db_area_416_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[2,3,4wave]",30010,20,42,Position,"{""X"":20, ""Y"":42}",3,180
+db_area_416_deploy_location.xlsm,b_0,5,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,16,48,Position,"{""X"":16, ""Y"":48}",3,180
+db_area_416_deploy_location.xlsm,b_0,6,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,17,53,Position,"{""X"":17, ""Y"":53}",3,180
+db_area_416_deploy_location.xlsm,b_0,7,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,47,39,Position,"{""X"":47, ""Y"":39}",3,180
+db_area_441_deploy_location.xlsm,b_0,1,[SoloBoss] ½½¶óÀÓ,40010,35,51,Position,"{""X"":35, ""Y"":51}",3,180
+db_area_441_deploy_location.xlsm,b_0,2,"½½¶óÀÓ[1,2,3,4wave]",30010,50,49,Position,"{""X"":50, ""Y"":49}",3,180
+db_area_441_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[2,3,4wave]",30010,45,54,Position,"{""X"":45, ""Y"":54}",3,180
+db_area_441_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[2,3,4wave]",30010,20,42,Position,"{""X"":20, ""Y"":42}",3,180
+db_area_441_deploy_location.xlsm,b_0,5,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,16,48,Position,"{""X"":16, ""Y"":48}",3,180
+db_area_441_deploy_location.xlsm,b_0,6,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,17,53,Position,"{""X"":17, ""Y"":53}",3,180
+db_area_441_deploy_location.xlsm,b_0,7,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,47,39,Position,"{""X"":47, ""Y"":39}",3,180
+db_area_442_deploy_location.xlsm,b_0,1,[SoloBoss] ½½¶óÀÓ,40010,35,51,Square,"{""X"":35, ""Y"":51}",3,180
+db_area_442_deploy_location.xlsm,b_0,2,"½½¶óÀÓ[1,2,3,4wave]",30010,50,49,Square,"{""X"":50, ""Y"":49}",3,180
+db_area_442_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[2,3,4wave]",30010,45,54,Square,"{""X"":45, ""Y"":54}",3,180
+db_area_442_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[2,3,4wave]",30010,20,42,Square,"{""X"":20, ""Y"":42}",3,180
+db_area_442_deploy_location.xlsm,b_0,5,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,16,48,Square,"{""X"":16, ""Y"":48}",3,180
+db_area_442_deploy_location.xlsm,b_0,6,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,17,53,Square,"{""X"":17, ""Y"":53}",3,180
+db_area_442_deploy_location.xlsm,b_0,7,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,47,39,Square,"{""X"":47, ""Y"":39}",3,180
+db_area_443_deploy_location.xlsm,b_0,1,[SoloBoss] ½½¶óÀÓ,40010,35,51,Square,"{""X"":35, ""Y"":51}",3,180
+db_area_443_deploy_location.xlsm,b_0,2,"½½¶óÀÓ[1,2,3,4wave]",30010,50,49,Square,"{""X"":50, ""Y"":49}",3,180
+db_area_443_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[2,3,4wave]",30010,45,54,Square,"{""X"":45, ""Y"":54}",3,180
+db_area_443_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[2,3,4wave]",30010,20,42,Square,"{""X"":20, ""Y"":42}",3,180
+db_area_443_deploy_location.xlsm,b_0,5,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,16,48,Square,"{""X"":16, ""Y"":48}",3,180
+db_area_443_deploy_location.xlsm,b_0,6,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,17,53,Square,"{""X"":17, ""Y"":53}",3,180
+db_area_443_deploy_location.xlsm,b_0,7,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,47,39,Square,"{""X"":47, ""Y"":39}",3,180
+db_area_444_deploy_location.xlsm,b_0,1,[SoloBoss] ½½¶óÀÓ,40010,35,51,Square,"{""X"":35, ""Y"":51}",3,180
+db_area_444_deploy_location.xlsm,b_0,2,"½½¶óÀÓ[1,2,3,4wave]",30010,50,49,Square,"{""X"":50, ""Y"":49}",3,180
+db_area_444_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[2,3,4wave]",30010,45,54,Square,"{""X"":45, ""Y"":54}",3,180
+db_area_444_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[2,3,4wave]",30010,20,42,Square,"{""X"":20, ""Y"":42}",3,180
+db_area_444_deploy_location.xlsm,b_0,5,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,16,48,Square,"{""X"":16, ""Y"":48}",3,180
+db_area_444_deploy_location.xlsm,b_0,6,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,17,53,Square,"{""X"":17, ""Y"":53}",3,180
+db_area_444_deploy_location.xlsm,b_0,7,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,47,39,Square,"{""X"":47, ""Y"":39}",3,180
+db_area_445_deploy_location.xlsm,b_0,1,[SoloBoss] ½½¶óÀÓ,40010,35,51,Square,"{""X"":35, ""Y"":51}",3,180
+db_area_445_deploy_location.xlsm,b_0,2,"½½¶óÀÓ[1,2,3,4wave]",30010,50,49,Square,"{""X"":50, ""Y"":49}",3,180
+db_area_445_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[2,3,4wave]",30010,45,54,Square,"{""X"":45, ""Y"":54}",3,180
+db_area_445_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[2,3,4wave]",30010,20,42,Square,"{""X"":20, ""Y"":42}",3,180
+db_area_445_deploy_location.xlsm,b_0,5,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,16,48,Square,"{""X"":16, ""Y"":48}",3,180
+db_area_445_deploy_location.xlsm,b_0,6,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,17,53,Square,"{""X"":17, ""Y"":53}",3,180
+db_area_445_deploy_location.xlsm,b_0,7,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,47,39,Square,"{""X"":47, ""Y"":39}",3,180
+db_area_501_deploy_location.xlsm,b_0,1,[SoloBoss] Å« ¾¾¾Ñ,40020,28,31,Position,"{""X"":28, ""Y"":31}",3,180
+db_area_501_deploy_location.xlsm,b_0,2,[Áß°£º¸½º] °Å´ë ²Ü¹ú[3wave],40025,24,24,Position,"{""X"":24, ""Y"":24}",3,180
+db_area_501_deploy_location.xlsm,b_0,3,²Ü¹ú Ä£À§´ë[4wave],30021,6,32,Position,"{""X"":6, ""Y"":32}",3,180
+db_area_501_deploy_location.xlsm,b_0,4,²Ü¹ú Ä£À§´ë[4wave],30021,39,45,Position,"{""X"":39, ""Y"":45}",3,180
+db_area_501_deploy_location.xlsm,b_0,5,²Ü¹ú Ä£À§´ë[4wave],30021,24,6,Position,"{""X"":24, ""Y"":6}",3,180
+db_area_501_deploy_location.xlsm,b_0,6,²Ü¹ú Ä£À§´ë[4wave],30021,41,18,Position,"{""X"":41, ""Y"":18}",3,180
+db_area_501_deploy_location.xlsm,b_0,7,"²Ü¹ú[1,2,3wave]",30022,37,46,Position,"{""X"":37, ""Y"":46}",3,180
+db_area_501_deploy_location.xlsm,b_0,8,"²Ü¹ú[1,2,3wave]",30022,22,7,Position,"{""X"":22, ""Y"":7}",3,180
+db_area_501_deploy_location.xlsm,b_0,9,"²Ü¹ú[2,3wave]",30022,44,19,Position,"{""X"":44, ""Y"":19}",3,180
+db_area_501_deploy_location.xlsm,b_0,10,"²Ü¹ú[2,3wave]",30022,4,33,Position,"{""X"":4, ""Y"":33}",3,180
+db_area_501_deploy_location.xlsm,b_0,11,"Å«¾¾¾Ñ[1,2,3wave]",30023,41,47,Position,"{""X"":41, ""Y"":47}",3,180
+db_area_501_deploy_location.xlsm,b_0,12,"Å«¾¾¾Ñ[1,2,3wave]",30023,27,7,Position,"{""X"":27, ""Y"":7}",3,180
+db_area_501_deploy_location.xlsm,b_0,13,"Å«¾¾¾Ñ[2,3wave]",30023,41,20,Position,"{""X"":41, ""Y"":20}",3,180
+db_area_501_deploy_location.xlsm,b_0,14,"Å«¾¾¾Ñ[2,3wave]",30023,5,36,Position,"{""X"":5, ""Y"":36}",3,180
+db_area_502_deploy_location.xlsm,b_0,1,[SoloBoss] Å« ¾¾¾Ñ,40020,28,31,Position,"{""X"":28, ""Y"":31}",3,180
+db_area_502_deploy_location.xlsm,b_0,2,[Áß°£º¸½º] °Å´ë ²Ü¹ú[3wave],40025,24,24,Position,"{""X"":24, ""Y"":24}",3,180
+db_area_502_deploy_location.xlsm,b_0,3,²Ü¹ú Ä£À§´ë[4wave],30021,6,32,Position,"{""X"":6, ""Y"":32}",3,180
+db_area_502_deploy_location.xlsm,b_0,4,²Ü¹ú Ä£À§´ë[4wave],30021,39,45,Position,"{""X"":39, ""Y"":45}",3,180
+db_area_502_deploy_location.xlsm,b_0,5,²Ü¹ú Ä£À§´ë[4wave],30021,24,6,Position,"{""X"":24, ""Y"":6}",3,180
+db_area_502_deploy_location.xlsm,b_0,6,²Ü¹ú Ä£À§´ë[4wave],30021,41,18,Position,"{""X"":41, ""Y"":18}",3,180
+db_area_502_deploy_location.xlsm,b_0,7,"²Ü¹ú[1,2,3wave]",30022,37,46,Position,"{""X"":37, ""Y"":46}",3,180
+db_area_502_deploy_location.xlsm,b_0,8,"²Ü¹ú[1,2,3wave]",30022,22,7,Position,"{""X"":22, ""Y"":7}",3,180
+db_area_502_deploy_location.xlsm,b_0,9,"²Ü¹ú[2,3wave]",30022,44,19,Position,"{""X"":44, ""Y"":19}",3,180
+db_area_502_deploy_location.xlsm,b_0,10,"²Ü¹ú[2,3wave]",30022,4,33,Position,"{""X"":4, ""Y"":33}",3,180
+db_area_502_deploy_location.xlsm,b_0,11,"Å«¾¾¾Ñ[1,2,3wave]",30023,41,47,Position,"{""X"":41, ""Y"":47}",3,180
+db_area_502_deploy_location.xlsm,b_0,12,"Å«¾¾¾Ñ[1,2,3wave]",30023,27,7,Position,"{""X"":27, ""Y"":7}",3,180
+db_area_502_deploy_location.xlsm,b_0,13,"Å«¾¾¾Ñ[2,3wave]",30023,41,20,Position,"{""X"":41, ""Y"":20}",3,180
+db_area_502_deploy_location.xlsm,b_0,14,"Å«¾¾¾Ñ[2,3wave]",30023,5,36,Position,"{""X"":5, ""Y"":36}",3,180
+db_area_503_deploy_location.xlsm,b_0,1,[SoloBoss] Å« ¾¾¾Ñ,40020,28,31,Position,"{""X"":28, ""Y"":31}",3,180
+db_area_503_deploy_location.xlsm,b_0,2,[Áß°£º¸½º] °Å´ë ²Ü¹ú[3wave],40025,24,24,Position,"{""X"":24, ""Y"":24}",3,180
+db_area_503_deploy_location.xlsm,b_0,3,²Ü¹ú Ä£À§´ë[4wave],30021,6,32,Position,"{""X"":6, ""Y"":32}",3,180
+db_area_503_deploy_location.xlsm,b_0,4,²Ü¹ú Ä£À§´ë[4wave],30021,39,45,Position,"{""X"":39, ""Y"":45}",3,180
+db_area_503_deploy_location.xlsm,b_0,5,²Ü¹ú Ä£À§´ë[4wave],30021,24,6,Position,"{""X"":24, ""Y"":6}",3,180
+db_area_503_deploy_location.xlsm,b_0,6,²Ü¹ú Ä£À§´ë[4wave],30021,41,18,Position,"{""X"":41, ""Y"":18}",3,180
+db_area_503_deploy_location.xlsm,b_0,7,"²Ü¹ú[1,2,3wave]",30022,37,46,Position,"{""X"":37, ""Y"":46}",3,180
+db_area_503_deploy_location.xlsm,b_0,8,"²Ü¹ú[1,2,3wave]",30022,22,7,Position,"{""X"":22, ""Y"":7}",3,180
+db_area_503_deploy_location.xlsm,b_0,9,"²Ü¹ú[2,3wave]",30022,44,19,Position,"{""X"":44, ""Y"":19}",3,180
+db_area_503_deploy_location.xlsm,b_0,10,"²Ü¹ú[2,3wave]",30022,4,33,Position,"{""X"":4, ""Y"":33}",3,180
+db_area_503_deploy_location.xlsm,b_0,11,"Å«¾¾¾Ñ[1,2,3wave]",30023,41,47,Position,"{""X"":41, ""Y"":47}",3,180
+db_area_503_deploy_location.xlsm,b_0,12,"Å«¾¾¾Ñ[1,2,3wave]",30023,27,7,Position,"{""X"":27, ""Y"":7}",3,180
+db_area_503_deploy_location.xlsm,b_0,13,"Å«¾¾¾Ñ[2,3wave]",30023,41,20,Position,"{""X"":41, ""Y"":20}",3,180
+db_area_503_deploy_location.xlsm,b_0,14,"Å«¾¾¾Ñ[2,3wave]",30023,5,36,Position,"{""X"":5, ""Y"":36}",3,180
+db_area_504_deploy_location.xlsm,b_0,1,[SoloBoss] Å« ¾¾¾Ñ,40020,28,31,Position,"{""X"":28, ""Y"":31}",3,180
+db_area_504_deploy_location.xlsm,b_0,2,[Áß°£º¸½º] °Å´ë ²Ü¹ú[3wave],40025,24,24,Position,"{""X"":24, ""Y"":24}",3,180
+db_area_504_deploy_location.xlsm,b_0,3,²Ü¹ú Ä£À§´ë[4wave],30021,6,32,Position,"{""X"":6, ""Y"":32}",3,180
+db_area_504_deploy_location.xlsm,b_0,4,²Ü¹ú Ä£À§´ë[4wave],30021,39,45,Position,"{""X"":39, ""Y"":45}",3,180
+db_area_504_deploy_location.xlsm,b_0,5,²Ü¹ú Ä£À§´ë[4wave],30021,24,6,Position,"{""X"":24, ""Y"":6}",3,180
+db_area_504_deploy_location.xlsm,b_0,6,²Ü¹ú Ä£À§´ë[4wave],30021,41,18,Position,"{""X"":41, ""Y"":18}",3,180
+db_area_504_deploy_location.xlsm,b_0,7,"²Ü¹ú[1,2,3wave]",30022,37,46,Position,"{""X"":37, ""Y"":46}",3,180
+db_area_504_deploy_location.xlsm,b_0,8,"²Ü¹ú[1,2,3wave]",30022,22,7,Position,"{""X"":22, ""Y"":7}",3,180
+db_area_504_deploy_location.xlsm,b_0,9,"²Ü¹ú[2,3wave]",30022,44,19,Position,"{""X"":44, ""Y"":19}",3,180
+db_area_504_deploy_location.xlsm,b_0,10,"²Ü¹ú[2,3wave]",30022,4,33,Position,"{""X"":4, ""Y"":33}",3,180
+db_area_504_deploy_location.xlsm,b_0,11,"Å«¾¾¾Ñ[1,2,3wave]",30023,41,47,Position,"{""X"":41, ""Y"":47}",3,180
+db_area_504_deploy_location.xlsm,b_0,12,"Å«¾¾¾Ñ[1,2,3wave]",30023,27,7,Position,"{""X"":27, ""Y"":7}",3,180
+db_area_504_deploy_location.xlsm,b_0,13,"Å«¾¾¾Ñ[2,3wave]",30023,41,20,Position,"{""X"":41, ""Y"":20}",3,180
+db_area_504_deploy_location.xlsm,b_0,14,"Å«¾¾¾Ñ[2,3wave]",30023,5,36,Position,"{""X"":5, ""Y"":36}",3,180
+db_area_505_deploy_location.xlsm,b_0,1,[SoloBoss] Å« ¾¾¾Ñ,40020,28,31,Position,"{""X"":28, ""Y"":31}",3,180
+db_area_505_deploy_location.xlsm,b_0,2,[Áß°£º¸½º] °Å´ë ²Ü¹ú[3wave],40025,24,24,Position,"{""X"":24, ""Y"":24}",3,180
+db_area_505_deploy_location.xlsm,b_0,3,²Ü¹ú Ä£À§´ë[4wave],30021,6,32,Position,"{""X"":6, ""Y"":32}",3,180
+db_area_505_deploy_location.xlsm,b_0,4,²Ü¹ú Ä£À§´ë[4wave],30021,39,45,Position,"{""X"":39, ""Y"":45}",3,180
+db_area_505_deploy_location.xlsm,b_0,5,²Ü¹ú Ä£À§´ë[4wave],30021,24,6,Position,"{""X"":24, ""Y"":6}",3,180
+db_area_505_deploy_location.xlsm,b_0,6,²Ü¹ú Ä£À§´ë[4wave],30021,41,18,Position,"{""X"":41, ""Y"":18}",3,180
+db_area_505_deploy_location.xlsm,b_0,7,"²Ü¹ú[1,2,3wave]",30022,37,46,Position,"{""X"":37, ""Y"":46}",3,180
+db_area_505_deploy_location.xlsm,b_0,8,"²Ü¹ú[1,2,3wave]",30022,22,7,Position,"{""X"":22, ""Y"":7}",3,180
+db_area_505_deploy_location.xlsm,b_0,9,"²Ü¹ú[2,3wave]",30022,44,19,Position,"{""X"":44, ""Y"":19}",3,180
+db_area_505_deploy_location.xlsm,b_0,10,"²Ü¹ú[2,3wave]",30022,4,33,Position,"{""X"":4, ""Y"":33}",3,180
+db_area_505_deploy_location.xlsm,b_0,11,"Å«¾¾¾Ñ[1,2,3wave]",30023,41,47,Position,"{""X"":41, ""Y"":47}",3,180
+db_area_505_deploy_location.xlsm,b_0,12,"Å«¾¾¾Ñ[1,2,3wave]",30023,27,7,Position,"{""X"":27, ""Y"":7}",3,180
+db_area_505_deploy_location.xlsm,b_0,13,"Å«¾¾¾Ñ[2,3wave]",30023,41,20,Position,"{""X"":41, ""Y"":20}",3,180
+db_area_505_deploy_location.xlsm,b_0,14,"Å«¾¾¾Ñ[2,3wave]",30023,5,36,Position,"{""X"":5, ""Y"":36}",3,180
+db_area_541_deploy_location.xlsm,b_0,1,Boss ½ÖµÕÀÌ,42010,15,42,Position,"{""X"":15, ""Y"":42}",0,180
+db_area_541_deploy_location.xlsm,b_0,2,Boss ½ÖµÕÀÌ,42015,30,42,Position,"{""X"":30, ""Y"":42}",0,180
+db_area_541_deploy_location.xlsm,b_0,3,°¡½Ã,70001,21,47,Position,"{""X"":21,""Y"":47}",0,180
+db_area_541_deploy_location.xlsm,b_0,4,°¡½Ã,70001,11,21,Position,"{""X"":11,""Y"":21}",0,180
+db_area_541_deploy_location.xlsm,b_0,5,°¡½Ã,70001,31,14,Position,"{""X"":31,""Y"":14}",0,180
+db_area_541_deploy_location.xlsm,b_0,6,°¡½Ã,70001,31,47,Position,"{""X"":31,""Y"":47}",0,180
+db_area_541_deploy_location.xlsm,b_0,7,°¡½Ã,70001,14,33,Position,"{""X"":14,""Y"":33}",0,180
+db_area_541_deploy_location.xlsm,b_0,8,°¡½Ã,70001,28,34,Position,"{""X"":28,""Y"":34}",0,180
+db_area_541_deploy_location.xlsm,b_0,9,°¡½Ã,70001,8,38,Position,"{""X"":8,""Y"":38}",0,180
+db_area_541_deploy_location.xlsm,b_0,10,°¡½Ã,70001,11,51,Position,"{""X"":11,""Y"":51}",0,180
+db_area_541_deploy_location.xlsm,b_0,11,°¡½Ã,70001,33,28,Position,"{""X"":33,""Y"":28}",0,180
+db_area_541_deploy_location.xlsm,b_0,12,°¡½Ã,70001,15,14,Position,"{""X"":15,""Y"":14}",0,180
+db_area_542_deploy_location.xlsm,b_0,1,[SoloBoss] ±â»çÀÇ ¿øÈ¥,40030,21,45,Position,"{""X"":21, ""Y"":45}",3,180
+db_area_542_deploy_location.xlsm,b_0,2,µëÁ÷ÇÑ ½£ °Å¹Ì[3wave],30030,31,30,Position,"{""X"":31, ""Y"":30}",3,180
+db_area_542_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[½£]/[1,2,3wave]",30031,11,53,Position,"{""X"":11, ""Y"":53}",3,180
+db_area_542_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[½£]/[1,2,3wave]",30031,38,35,Position,"{""X"":38, ""Y"":35}",3,180
+db_area_542_deploy_location.xlsm,b_0,5,"½½¶óÀÓ[½£]/[1,2,3wave]",30031,8,25,Position,"{""X"":8, ""Y"":25}",3,180
+db_area_542_deploy_location.xlsm,b_0,6,"½½¶óÀÓ[½£]/[2,3wave]",30031,30,23,Position,"{""X"":30, ""Y"":23}",3,180
+db_area_542_deploy_location.xlsm,b_0,7,"½½¶óÀÓ[½£]/[2,3wave]",30031,5,39,Position,"{""X"":5, ""Y"":39}",3,180
+db_area_542_deploy_location.xlsm,b_0,8,"½½¶óÀÓ[½£]/[2,3wave]",30031,18,53,Position,"{""X"":18, ""Y"":53}",3,180
+db_area_542_deploy_location.xlsm,b_0,9,½½¶óÀÓ[½£]/[3wave],30031,5,34,Position,"{""X"":5, ""Y"":34}",3,180
+db_area_542_deploy_location.xlsm,b_0,10,½½¶óÀÓ[½£]/[3wave],30031,31,53,Position,"{""X"":31, ""Y"":53}",3,180
+db_area_542_deploy_location.xlsm,b_0,11,Å« ¾¾¾Ñ[1wave],30032,24,53,Position,"{""X"":24, ""Y"":53}",3,180
+db_area_542_deploy_location.xlsm,b_0,12,Å« ¾¾¾Ñ[1wave],30032,36,50,Position,"{""X"":36, ""Y"":50}",3,180
+db_area_542_deploy_location.xlsm,b_0,13,Å« ¾¾¾Ñ[1wave],30032,5,29,Position,"{""X"":5, ""Y"":29}",3,180
+db_area_542_deploy_location.xlsm,b_0,14,Å« ¾¾¾Ñ[2wave],30032,5,44,Position,"{""X"":5, ""Y"":44}",3,180
+db_area_542_deploy_location.xlsm,b_0,15,Å« ¾¾¾Ñ[2wave],30032,19,23,Position,"{""X"":19, ""Y"":23}",3,180
+db_area_542_deploy_location.xlsm,b_0,16,Å« ¾¾¾Ñ[2wave],30032,36,25,Position,"{""X"":36, ""Y"":25}",3,180
+db_area_542_deploy_location.xlsm,b_0,17,½£ °Å¹Ì[2wave],30033,13,23,Position,"{""X"":13, ""Y"":23}",3,180
+db_area_542_deploy_location.xlsm,b_0,18,½£ °Å¹Ì[2wave],30033,38,45,Position,"{""X"":38, ""Y"":45}",3,180
+db_area_542_deploy_location.xlsm,b_0,19,½£ °Å¹Ì[2wave],30033,38,39,Position,"{""X"":38, ""Y"":39}",3,180
+db_area_542_deploy_location.xlsm,b_0,20,½£ °Å¹Ì[3wave],30033,7,49,Position,"{""X"":7, ""Y"":49}",3,180
+db_area_542_deploy_location.xlsm,b_0,21,½£ °Å¹Ì[3wave],30033,25,23,Position,"{""X"":25, ""Y"":23}",3,180
+db_area_542_deploy_location.xlsm,b_0,22,½£ °Å¹Ì[3wave],30033,38,30,Position,"{""X"":38, ""Y"":30}",3,180
+db_area_543_deploy_location.xlsm,b_0,1,[SoloBoss] ±â»çÀÇ ¿øÈ¥,40030,21,45,Position,"{""X"":21, ""Y"":45}",3,180
+db_area_543_deploy_location.xlsm,b_0,2,µëÁ÷ÇÑ ½£ °Å¹Ì[3wave],30030,31,30,Position,"{""X"":31, ""Y"":30}",3,180
+db_area_543_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[½£]/[1,2,3wave]",30031,11,53,Position,"{""X"":11, ""Y"":53}",3,180
+db_area_543_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[½£]/[1,2,3wave]",30031,38,35,Position,"{""X"":38, ""Y"":35}",3,180
+db_area_543_deploy_location.xlsm,b_0,5,"½½¶óÀÓ[½£]/[1,2,3wave]",30031,8,25,Position,"{""X"":8, ""Y"":25}",3,180
+db_area_543_deploy_location.xlsm,b_0,6,"½½¶óÀÓ[½£]/[2,3wave]",30031,30,23,Position,"{""X"":30, ""Y"":23}",3,180
+db_area_543_deploy_location.xlsm,b_0,7,"½½¶óÀÓ[½£]/[2,3wave]",30031,5,39,Position,"{""X"":5, ""Y"":39}",3,180
+db_area_543_deploy_location.xlsm,b_0,8,"½½¶óÀÓ[½£]/[2,3wave]",30031,18,53,Position,"{""X"":18, ""Y"":53}",3,180
+db_area_543_deploy_location.xlsm,b_0,9,½½¶óÀÓ[½£]/[3wave],30031,5,34,Position,"{""X"":5, ""Y"":34}",3,180
+db_area_543_deploy_location.xlsm,b_0,10,½½¶óÀÓ[½£]/[3wave],30031,31,53,Position,"{""X"":31, ""Y"":53}",3,180
+db_area_543_deploy_location.xlsm,b_0,11,Å« ¾¾¾Ñ[1wave],30032,24,53,Position,"{""X"":24, ""Y"":53}",3,180
+db_area_543_deploy_location.xlsm,b_0,12,Å« ¾¾¾Ñ[1wave],30032,36,50,Position,"{""X"":36, ""Y"":50}",3,180
+db_area_543_deploy_location.xlsm,b_0,13,Å« ¾¾¾Ñ[1wave],30032,5,29,Position,"{""X"":5, ""Y"":29}",3,180
+db_area_543_deploy_location.xlsm,b_0,14,Å« ¾¾¾Ñ[2wave],30032,5,44,Position,"{""X"":5, ""Y"":44}",3,180
+db_area_543_deploy_location.xlsm,b_0,15,Å« ¾¾¾Ñ[2wave],30032,19,23,Position,"{""X"":19, ""Y"":23}",3,180
+db_area_543_deploy_location.xlsm,b_0,16,Å« ¾¾¾Ñ[2wave],30032,36,25,Position,"{""X"":36, ""Y"":25}",3,180
+db_area_543_deploy_location.xlsm,b_0,17,½£ °Å¹Ì[2wave],30033,13,23,Position,"{""X"":13, ""Y"":23}",3,180
+db_area_543_deploy_location.xlsm,b_0,18,½£ °Å¹Ì[2wave],30033,38,45,Position,"{""X"":38, ""Y"":45}",3,180
+db_area_543_deploy_location.xlsm,b_0,19,½£ °Å¹Ì[2wave],30033,38,39,Position,"{""X"":38, ""Y"":39}",3,180
+db_area_543_deploy_location.xlsm,b_0,20,½£ °Å¹Ì[3wave],30033,7,49,Position,"{""X"":7, ""Y"":49}",3,180
+db_area_543_deploy_location.xlsm,b_0,21,½£ °Å¹Ì[3wave],30033,25,23,Position,"{""X"":25, ""Y"":23}",3,180
+db_area_543_deploy_location.xlsm,b_0,22,½£ °Å¹Ì[3wave],30033,38,30,Position,"{""X"":38, ""Y"":30}",3,180
+db_area_544_deploy_location.xlsm,b_0,1,[SoloBoss] ±â»çÀÇ ¿øÈ¥,40030,21,45,Position,"{""X"":21, ""Y"":45}",3,180
+db_area_544_deploy_location.xlsm,b_0,2,µëÁ÷ÇÑ ½£ °Å¹Ì[3wave],30030,31,30,Position,"{""X"":31, ""Y"":30}",3,180
+db_area_544_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[½£]/[1,2,3wave]",30031,11,53,Position,"{""X"":11, ""Y"":53}",3,180
+db_area_544_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[½£]/[1,2,3wave]",30031,38,35,Position,"{""X"":38, ""Y"":35}",3,180
+db_area_544_deploy_location.xlsm,b_0,5,"½½¶óÀÓ[½£]/[1,2,3wave]",30031,8,25,Position,"{""X"":8, ""Y"":25}",3,180
+db_area_544_deploy_location.xlsm,b_0,6,"½½¶óÀÓ[½£]/[2,3wave]",30031,30,23,Position,"{""X"":30, ""Y"":23}",3,180
+db_area_544_deploy_location.xlsm,b_0,7,"½½¶óÀÓ[½£]/[2,3wave]",30031,5,39,Position,"{""X"":5, ""Y"":39}",3,180
+db_area_544_deploy_location.xlsm,b_0,8,"½½¶óÀÓ[½£]/[2,3wave]",30031,18,53,Position,"{""X"":18, ""Y"":53}",3,180
+db_area_544_deploy_location.xlsm,b_0,9,½½¶óÀÓ[½£]/[3wave],30031,5,34,Position,"{""X"":5, ""Y"":34}",3,180
+db_area_544_deploy_location.xlsm,b_0,10,½½¶óÀÓ[½£]/[3wave],30031,31,53,Position,"{""X"":31, ""Y"":53}",3,180
+db_area_544_deploy_location.xlsm,b_0,11,Å« ¾¾¾Ñ[1wave],30032,24,53,Position,"{""X"":24, ""Y"":53}",3,180
+db_area_544_deploy_location.xlsm,b_0,12,Å« ¾¾¾Ñ[1wave],30032,36,50,Position,"{""X"":36, ""Y"":50}",3,180
+db_area_544_deploy_location.xlsm,b_0,13,Å« ¾¾¾Ñ[1wave],30032,5,29,Position,"{""X"":5, ""Y"":29}",3,180
+db_area_544_deploy_location.xlsm,b_0,14,Å« ¾¾¾Ñ[2wave],30032,5,44,Position,"{""X"":5, ""Y"":44}",3,180
+db_area_544_deploy_location.xlsm,b_0,15,Å« ¾¾¾Ñ[2wave],30032,19,23,Position,"{""X"":19, ""Y"":23}",3,180
+db_area_544_deploy_location.xlsm,b_0,16,Å« ¾¾¾Ñ[2wave],30032,36,25,Position,"{""X"":36, ""Y"":25}",3,180
+db_area_544_deploy_location.xlsm,b_0,17,½£ °Å¹Ì[2wave],30033,13,23,Position,"{""X"":13, ""Y"":23}",3,180
+db_area_544_deploy_location.xlsm,b_0,18,½£ °Å¹Ì[2wave],30033,38,45,Position,"{""X"":38, ""Y"":45}",3,180
+db_area_544_deploy_location.xlsm,b_0,19,½£ °Å¹Ì[2wave],30033,38,39,Position,"{""X"":38, ""Y"":39}",3,180
+db_area_544_deploy_location.xlsm,b_0,20,½£ °Å¹Ì[3wave],30033,7,49,Position,"{""X"":7, ""Y"":49}",3,180
+db_area_544_deploy_location.xlsm,b_0,21,½£ °Å¹Ì[3wave],30033,25,23,Position,"{""X"":25, ""Y"":23}",3,180
+db_area_544_deploy_location.xlsm,b_0,22,½£ °Å¹Ì[3wave],30033,38,30,Position,"{""X"":38, ""Y"":30}",3,180
+db_area_545_deploy_location.xlsm,b_0,1,[SoloBoss] ±â»çÀÇ ¿øÈ¥,40030,21,45,Position,"{""X"":21, ""Y"":45}",3,180
+db_area_545_deploy_location.xlsm,b_0,2,µëÁ÷ÇÑ ½£ °Å¹Ì[3wave],30030,31,30,Position,"{""X"":31, ""Y"":30}",3,180
+db_area_545_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[½£]/[1,2,3wave]",30031,11,53,Position,"{""X"":11, ""Y"":53}",3,180
+db_area_545_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[½£]/[1,2,3wave]",30031,38,35,Position,"{""X"":38, ""Y"":35}",3,180
+db_area_545_deploy_location.xlsm,b_0,5,"½½¶óÀÓ[½£]/[1,2,3wave]",30031,8,25,Position,"{""X"":8, ""Y"":25}",3,180
+db_area_545_deploy_location.xlsm,b_0,6,"½½¶óÀÓ[½£]/[2,3wave]",30031,30,23,Position,"{""X"":30, ""Y"":23}",3,180
+db_area_545_deploy_location.xlsm,b_0,7,"½½¶óÀÓ[½£]/[2,3wave]",30031,5,39,Position,"{""X"":5, ""Y"":39}",3,180
+db_area_545_deploy_location.xlsm,b_0,8,"½½¶óÀÓ[½£]/[2,3wave]",30031,18,53,Position,"{""X"":18, ""Y"":53}",3,180
+db_area_545_deploy_location.xlsm,b_0,9,½½¶óÀÓ[½£]/[3wave],30031,5,34,Position,"{""X"":5, ""Y"":34}",3,180
+db_area_545_deploy_location.xlsm,b_0,10,½½¶óÀÓ[½£]/[3wave],30031,31,53,Position,"{""X"":31, ""Y"":53}",3,180
+db_area_545_deploy_location.xlsm,b_0,11,Å« ¾¾¾Ñ[1wave],30032,24,53,Position,"{""X"":24, ""Y"":53}",3,180
+db_area_545_deploy_location.xlsm,b_0,12,Å« ¾¾¾Ñ[1wave],30032,36,50,Position,"{""X"":36, ""Y"":50}",3,180
+db_area_545_deploy_location.xlsm,b_0,13,Å« ¾¾¾Ñ[1wave],30032,5,29,Position,"{""X"":5, ""Y"":29}",3,180
+db_area_545_deploy_location.xlsm,b_0,14,Å« ¾¾¾Ñ[2wave],30032,5,44,Position,"{""X"":5, ""Y"":44}",3,180
+db_area_545_deploy_location.xlsm,b_0,15,Å« ¾¾¾Ñ[2wave],30032,19,23,Position,"{""X"":19, ""Y"":23}",3,180
+db_area_545_deploy_location.xlsm,b_0,16,Å« ¾¾¾Ñ[2wave],30032,36,25,Position,"{""X"":36, ""Y"":25}",3,180
+db_area_545_deploy_location.xlsm,b_0,17,½£ °Å¹Ì[2wave],30033,13,23,Position,"{""X"":13, ""Y"":23}",3,180
+db_area_545_deploy_location.xlsm,b_0,18,½£ °Å¹Ì[2wave],30033,38,45,Position,"{""X"":38, ""Y"":45}",3,180
+db_area_545_deploy_location.xlsm,b_0,19,½£ °Å¹Ì[2wave],30033,38,39,Position,"{""X"":38, ""Y"":39}",3,180
+db_area_545_deploy_location.xlsm,b_0,20,½£ °Å¹Ì[3wave],30033,7,49,Position,"{""X"":7, ""Y"":49}",3,180
+db_area_545_deploy_location.xlsm,b_0,21,½£ °Å¹Ì[3wave],30033,25,23,Position,"{""X"":25, ""Y"":23}",3,180
+db_area_545_deploy_location.xlsm,b_0,22,½£ °Å¹Ì[3wave],30033,38,30,Position,"{""X"":38, ""Y"":30}",3,180
+db_area_546_deploy_location.xlsm,b_0,1,[SoloBoss] ±â»çÀÇ ¿øÈ¥,40030,21,45,Position,"{""X"":21, ""Y"":45}",3,180
+db_area_546_deploy_location.xlsm,b_0,2,µëÁ÷ÇÑ ½£ °Å¹Ì[3wave],30030,31,30,Position,"{""X"":31, ""Y"":30}",3,180
+db_area_546_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[½£]/[1,2,3wave]",30031,11,53,Position,"{""X"":11, ""Y"":53}",3,180
+db_area_546_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[½£]/[1,2,3wave]",30031,38,35,Position,"{""X"":38, ""Y"":35}",3,180
+db_area_546_deploy_location.xlsm,b_0,5,"½½¶óÀÓ[½£]/[1,2,3wave]",30031,8,25,Position,"{""X"":8, ""Y"":25}",3,180
+db_area_546_deploy_location.xlsm,b_0,6,"½½¶óÀÓ[½£]/[2,3wave]",30031,30,23,Position,"{""X"":30, ""Y"":23}",3,180
+db_area_546_deploy_location.xlsm,b_0,7,"½½¶óÀÓ[½£]/[2,3wave]",30031,5,39,Position,"{""X"":5, ""Y"":39}",3,180
+db_area_546_deploy_location.xlsm,b_0,8,"½½¶óÀÓ[½£]/[2,3wave]",30031,18,53,Position,"{""X"":18, ""Y"":53}",3,180
+db_area_546_deploy_location.xlsm,b_0,9,½½¶óÀÓ[½£]/[3wave],30031,5,34,Position,"{""X"":5, ""Y"":34}",3,180
+db_area_546_deploy_location.xlsm,b_0,10,½½¶óÀÓ[½£]/[3wave],30031,31,53,Position,"{""X"":31, ""Y"":53}",3,180
+db_area_546_deploy_location.xlsm,b_0,11,Å« ¾¾¾Ñ[1wave],30032,24,53,Position,"{""X"":24, ""Y"":53}",3,180
+db_area_546_deploy_location.xlsm,b_0,12,Å« ¾¾¾Ñ[1wave],30032,36,50,Position,"{""X"":36, ""Y"":50}",3,180
+db_area_546_deploy_location.xlsm,b_0,13,Å« ¾¾¾Ñ[1wave],30032,5,29,Position,"{""X"":5, ""Y"":29}",3,180
+db_area_546_deploy_location.xlsm,b_0,14,Å« ¾¾¾Ñ[2wave],30032,5,44,Position,"{""X"":5, ""Y"":44}",3,180
+db_area_546_deploy_location.xlsm,b_0,15,Å« ¾¾¾Ñ[2wave],30032,19,23,Position,"{""X"":19, ""Y"":23}",3,180
+db_area_546_deploy_location.xlsm,b_0,16,Å« ¾¾¾Ñ[2wave],30032,36,25,Position,"{""X"":36, ""Y"":25}",3,180
+db_area_546_deploy_location.xlsm,b_0,17,½£ °Å¹Ì[2wave],30033,13,23,Position,"{""X"":13, ""Y"":23}",3,180
+db_area_546_deploy_location.xlsm,b_0,18,½£ °Å¹Ì[2wave],30033,38,45,Position,"{""X"":38, ""Y"":45}",3,180
+db_area_546_deploy_location.xlsm,b_0,19,½£ °Å¹Ì[2wave],30033,38,39,Position,"{""X"":38, ""Y"":39}",3,180
+db_area_546_deploy_location.xlsm,b_0,20,½£ °Å¹Ì[3wave],30033,7,49,Position,"{""X"":7, ""Y"":49}",3,180
+db_area_546_deploy_location.xlsm,b_0,21,½£ °Å¹Ì[3wave],30033,25,23,Position,"{""X"":25, ""Y"":23}",3,180
+db_area_546_deploy_location.xlsm,b_0,22,½£ °Å¹Ì[3wave],30033,38,30,Position,"{""X"":38, ""Y"":30}",3,180
+db_area_721_deploy_location.xlsm,b_0,1,¾ÆÄÉ·Ð,42040,36,32,Position,"{""X"":36, ""Y"":32}",0,180
+db_area_721_deploy_location.xlsm,b_0,2,ÇØ°ñº´»ç,32040,28,48,Position,"{""X"":28, ""Y"":48}",0,180
+db_area_721_deploy_location.xlsm,b_0,3,ÇØ°ñº´»ç,32040,45,49,Position,"{""X"":45, ""Y"":49}",0,180
+db_area_721_deploy_location.xlsm,b_0,4,ÇØ°ñº´»ç,32040,17,41,Position,"{""X"":17, ""Y"":41}",0,180
+db_area_721_deploy_location.xlsm,b_0,5,ÇØ°ñº´»ç,32040,53,42,Position,"{""X"":53, ""Y"":42}",0,180
+db_area_721_deploy_location.xlsm,b_0,6,°¡½Ã,70001,43,43,Position,"{""X"":43,""Y"":43}",0,180
+db_area_721_deploy_location.xlsm,b_0,7,°¡½Ã,70001,41,32,Position,"{""X"":41,""Y"":32}",0,180
+db_area_721_deploy_location.xlsm,b_0,8,°¡½Ã,70001,34,40,Position,"{""X"":34,""Y"":40}",0,180
+db_area_721_deploy_location.xlsm,b_0,9,°¡½Ã,70001,32,29,Position,"{""X"":32,""Y"":29}",0,180
+db_area_721_deploy_location.xlsm,b_0,10,°¡½Ã,70001,56,37,Position,"{""X"":56,""Y"":37}",0,180
+db_area_721_deploy_location.xlsm,b_0,11,°¡½Ã,70001,55,27,Position,"{""X"":55,""Y"":27}",0,180
+db_area_721_deploy_location.xlsm,b_0,12,°¡½Ã,70001,26,45,Position,"{""X"":26,""Y"":45}",0,180
+db_area_721_deploy_location.xlsm,b_0,13,°¡½Ã,70001,25,34,Position,"{""X"":25,""Y"":34}",0,180
+db_area_721_deploy_location.xlsm,b_0,14,°¡½Ã,70001,20,36,Position,"{""X"":20,""Y"":36}",0,180
+db_area_721_deploy_location.xlsm,b_0,15,°¡½Ã,70001,18,25,Position,"{""X"":18,""Y"":25}",0,180
+db_area_731_deploy_location.xlsm,b_0,1,[SoloBoss]±×¸²¸®ÆÛ,40040,82,28,Position,"{""X"":82, ""Y"":28}",0,180
+db_area_731_deploy_location.xlsm,b_0,2,ÇØ°ñ ±â»ç[3wave],30040,61,24,Position,"{""X"":61, ""Y"":24}",0,180
+db_area_731_deploy_location.xlsm,b_0,3,ÇØ°ñ ±â»ç[3wave],30040,93,47,Position,"{""X"":93, ""Y"":47}",0,180
+db_area_731_deploy_location.xlsm,b_0,4,ÇØ°ñ ±â»ç[3wave],30040,97,30,Position,"{""X"":97, ""Y"":30}",0,180
+db_area_731_deploy_location.xlsm,b_0,5,"¼öÁ¤¹ÚÁã[1,2,3wave]",30041,100,29,Position,"{""X"":100, ""Y"":29}",0,180
+db_area_731_deploy_location.xlsm,b_0,6,"¼öÁ¤¹ÚÁã[1,2,3wave]",30041,59,26,Position,"{""X"":59, ""Y"":26}",0,180
+db_area_731_deploy_location.xlsm,b_0,7,"¼öÁ¤¹ÚÁã[1,2,3wave]",30041,63,21,Position,"{""X"":63, ""Y"":21}",0,180
+db_area_731_deploy_location.xlsm,b_0,8,"¼öÁ¤¹ÚÁã[1,2,3wave]",30041,96,49,Position,"{""X"":96, ""Y"":49}",0,180
+db_area_731_deploy_location.xlsm,b_0,9,"¼öÁ¤¹ÚÁã[1,2,3wave]",30041,92,50,Position,"{""X"":92, ""Y"":50}",0,180
+db_area_731_deploy_location.xlsm,b_0,10,"¼öÁ¤¹ÚÁã[1,2,3wave]",30041,79,46,Position,"{""X"":79, ""Y"":46}",0,180
+db_area_731_deploy_location.xlsm,b_0,11,"¼öÁ¤¹ÚÁã[2,3wave]",30041,97,34,Position,"{""X"":97, ""Y"":34}",0,180
+db_area_731_deploy_location.xlsm,b_0,12,"¼öÁ¤¹ÚÁã[2,3wave]",30041,63,37,Position,"{""X"":63, ""Y"":37}",0,180
+db_area_731_deploy_location.xlsm,b_0,13,"¼öÁ¤¹ÚÁã[2,3wave]",30041,103,42,Position,"{""X"":103, ""Y"":42}",0,180
+db_area_731_deploy_location.xlsm,b_0,14,¼öÁ¤¹ÚÁã[3wave],30041,82,50,Position,"{""X"":82, ""Y"":50}",0,180
+db_area_731_deploy_location.xlsm,b_0,15,¼öÁ¤¹ÚÁã[3wave],30041,68,20,Position,"{""X"":68, ""Y"":20}",0,180
+db_area_731_deploy_location.xlsm,b_0,16,¼öÁ¤¹ÚÁã[3wave],30041,65,39,Position,"{""X"":65, ""Y"":39}",0,180
+db_area_731_deploy_location.xlsm,b_0,17,"ÇØ°ñº´»ç[1,2,3wave]",30042,64,32,Position,"{""X"":64, ""Y"":32}",0,180
+db_area_731_deploy_location.xlsm,b_0,18,"ÇØ°ñº´»ç[1,2,3wave]",30042,59,22,Position,"{""X"":59, ""Y"":22}",0,180
+db_area_731_deploy_location.xlsm,b_0,19,"ÇØ°ñº´»ç[1,2,3wave]",30042,95,52,Position,"{""X"":95, ""Y"":52}",0,180
+db_area_731_deploy_location.xlsm,b_0,20,"ÇØ°ñº´»ç[1,2,3wave]",30042,102,32,Position,"{""X"":102, ""Y"":32}",0,180
+db_area_831_deploy_location.xlsm,b_0,1,Boss µå·¡°ï,42030,25,38,Position,"{""X"":25, ""Y"":38}",0,180
+db_area_831_deploy_location.xlsm,b_0,2,¹Ì´Ï¿ë(¿ÞÂÊ),32030,8,37,Position,"{""X"":8, ""Y"":37}",0,180
+db_area_831_deploy_location.xlsm,b_0,3,¹Ì´Ï¿ë(¿À¸¥ÂÊ),32030,39,47,Position,"{""X"":39, ""Y"":47}",0,180
+db_area_831_deploy_location.xlsm,b_0,4,¹Ì´Ï¿ë(¿ÞÂÊ),32030,14,52,Position,"{""X"":14, ""Y"":52}",0,180
+db_area_831_deploy_location.xlsm,b_0,5,¹Ì´Ï¿ë(¿À¸¥ÂÊ),32030,40,39,Position,"{""X"":40, ""Y"":39}",0,180
+db_area_831_deploy_location.xlsm,b_0,6,¹Ì´Ï¿ë(Áß¾ÓµÚÂÊ),32030,27,53,Position,"{""X"":27, ""Y"":53}",0,180
+db_area_831_deploy_location.xlsm,b_0,7,Å¸¿ö_¹«Àû,70002,18,44,Position,"{""X"":18,""Y"":44}",0,180
+db_area_831_deploy_location.xlsm,b_0,8,Å¸¿ö_¹«Àû,70002,33,44,Position,"{""X"":33,""Y"":44}",0,180
+db_area_831_deploy_location.xlsm,b_0,9,Å¸¿ö_¹«Àû,70002,18,33,Position,"{""X"":18,""Y"":33}",0,180
+db_area_831_deploy_location.xlsm,b_0,10,Å¸¿ö_¹«Àû,70002,33,33,Position,"{""X"":33,""Y"":33}",0,180
+db_area_833_deploy_location.xlsm,b_0,1,[SoloBoss] ÇìÃú¸µ,40080,25,43,Position,"{""X"":25, ""Y"":43}",3,180
+db_area_833_deploy_location.xlsm,b_0,2,ÇØÃú¸µ,30082,43,41,Position,"{""X"":43, ""Y"":41}",3,180
+db_area_833_deploy_location.xlsm,b_0,3,ÇØÃú¸µ,30082,38,52,Position,"{""X"":38, ""Y"":52}",3,180
+db_area_833_deploy_location.xlsm,b_0,4,ÇØÃú¸µ,30082,25,55,Position,"{""X"":25, ""Y"":55}",3,180
+db_area_833_deploy_location.xlsm,b_0,5,ÇØÃú¸µ,30082,43,25,Position,"{""X"":43, ""Y"":25}",3,180
+db_area_833_deploy_location.xlsm,b_0,6,ÇØÃú¸µ,30082,8,25,Position,"{""X"":8, ""Y"":25}",3,180
+db_area_833_deploy_location.xlsm,b_0,7,ÇØÃú¸µ,30082,27,19,Position,"{""X"":27, ""Y"":19}",3,180
+db_area_833_deploy_location.xlsm,b_0,8,ÇØÃú¸µ,30082,11,52,Position,"{""X"":11, ""Y"":52}",3,180
+db_area_833_deploy_location.xlsm,b_0,9,ÇØÃú¸µ,30082,6,36,Position,"{""X"":6, ""Y"":36}",3,180
+db_area_833_deploy_location.xlsm,b_0,10,»ø·¯¸Ç´õ,30081,41,51,Position,"{""X"":41, ""Y"":51}",3,180
+db_area_833_deploy_location.xlsm,b_0,11,»ø·¯¸Ç´õ,30081,6,38,Position,"{""X"":6, ""Y"":38}",3,180
+db_area_833_deploy_location.xlsm,b_0,12,»ø·¯¸Ç´õ,30081,43,39,Position,"{""X"":43, ""Y"":39}",3,180
+db_area_833_deploy_location.xlsm,b_0,13,»ø·¯¸Ç´õ,30081,10,23,Position,"{""X"":10, ""Y"":23}",3,180
+db_area_833_deploy_location.xlsm,b_0,14,»ø·¯¸Ç´õ,30081,9,50,Position,"{""X"":9, ""Y"":50}",3,180
+db_area_833_deploy_location.xlsm,b_0,15,»ø·¯¸Ç´õ,30081,23,55,Position,"{""X"":23, ""Y"":55}",3,180
+db_area_833_deploy_location.xlsm,b_0,16,»ø·¯¸Ç´õ,30081,41,24,Position,"{""X"":41, ""Y"":24}",3,180
+db_area_833_deploy_location.xlsm,b_0,17,»ø·¯¸Ç´õ,30081,23,19,Position,"{""X"":23, ""Y"":19}",3,180
+db_area_841_deploy_location.xlsm,b_0,1,[SoloBoss] »ø·¯¸Ç´õ,40050,53,18,Position,"{""X"":53, ""Y"":18}",3,180
+db_area_841_deploy_location.xlsm,b_0,2,»õ³¢ »ø·¯¸Ç´õ,30051,25,12,Position,"{""X"":25, ""Y"":12}",3,180
+db_area_841_deploy_location.xlsm,b_0,3,»õ³¢ »ø·¯¸Ç´õ,30051,82,15,Position,"{""X"":82, ""Y"":15}",3,180
+db_area_841_deploy_location.xlsm,b_0,4,»ø·¯¸Ç´õ,30052,28,16,Position,"{""X"":28, ""Y"":16}",3,180
+db_area_841_deploy_location.xlsm,b_0,5,»ø·¯¸Ç´õ,30052,80,17,Position,"{""X"":80, ""Y"":17}",3,180
+db_area_841_deploy_location.xlsm,b_0,6,½½¶óÀÓ[ºÒ],30050,32,14,Position,"{""X"":32, ""Y"":14}",3,180
+db_area_841_deploy_location.xlsm,b_0,7,½½¶óÀÓ[ºÒ],30050,75,7,Position,"{""X"":75, ""Y"":7}",3,180
+db_area_841_deploy_location.xlsm,b_0,8,½½¶óÀÓ[ºÒ],30050,73,18,Position,"{""X"":73, ""Y"":18}",3,180
+db_area_841_deploy_location.xlsm,b_0,9,½½¶óÀÓ[ºÒ],30050,32,9,Position,"{""X"":32, ""Y"":9}",3,180
+db_area_9000_deploy_location.xlsm,b_0,1,[SoloBoss] ½½¶óÀÓ,40010,35,51,Position,"{""X"":35, ""Y"":51}",3,180
+db_area_9000_deploy_location.xlsm,b_0,2,"½½¶óÀÓ[1,2,3,4wave]",30010,50,49,Position,"{""X"":50, ""Y"":49}",3,180
+db_area_9000_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[2,3,4wave]",30010,45,54,Position,"{""X"":45, ""Y"":54}",3,180
+db_area_9000_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[2,3,4wave]",30010,20,42,Position,"{""X"":20, ""Y"":42}",3,180
+db_area_9000_deploy_location.xlsm,b_0,5,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,16,48,Position,"{""X"":16, ""Y"":48}",3,180
+db_area_9000_deploy_location.xlsm,b_0,6,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,17,53,Position,"{""X"":17, ""Y"":53}",3,180
+db_area_9000_deploy_location.xlsm,b_0,7,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,47,39,Position,"{""X"":47, ""Y"":39}",3,180
+db_area_9000_deploy_location.xlsm,b_0,8,°¡½Ã 1,70001,35,51,Square,"{""X"":35, ""Y"":51}",1,180
+db_area_9000_deploy_location.xlsm,b_0,9,°¡½Ã 2,70001,50,49,Square,"{""X"":50, ""Y"":49}",1,180
+db_area_9000_deploy_location.xlsm,b_0,10,°¡½Ã 3,70001,45,54,Square,"{""X"":45, ""Y"":54}",1,180
+db_area_9000_deploy_location.xlsm,b_0,11,°¡½Ã 4,70001,20,42,Square,"{""X"":20, ""Y"":42}",1,180
+db_area_9000_deploy_location.xlsm,b_0,12,°¡½Ã 5,70001,16,48,Square,"{""X"":16, ""Y"":48}",1,180
+db_area_9000_deploy_location.xlsm,b_0,13,°¡½Ã 6,70001,17,53,Square,"{""X"":17, ""Y"":53}",1,180
+db_area_9000_deploy_location.xlsm,b_0,14,°¡½Ã 7,70001,47,39,Square,"{""X"":47, ""Y"":39}",1,180
+db_area_9000_deploy_location.xlsm,b_0,15,°¡½Ã 8,70001,43,48,Square,"{""X"":43, ""Y"":48}",1,180
+db_area_9000_deploy_location.xlsm,b_0,16,°¡½Ã 9,70001,39,41,Square,"{""X"":39, ""Y"":41}",1,180
+db_area_9000_deploy_location.xlsm,b_0,17,°¡½Ã 10,70001,35,45,Square,"{""X"":35, ""Y"":45}",1,180
+db_area_9000_deploy_location.xlsm,b_0,18,°¡½Ã 11,70001,28,42,Square,"{""X"":28, ""Y"":42}",1,180
+db_area_9000_deploy_location.xlsm,b_0,19,°¡½Ã 12,70001,39,48,Square,"{""X"":39, ""Y"":48}",1,180
+db_area_9000_deploy_location.xlsm,b_0,20,°¡½Ã 13,70001,32,53,Square,"{""X"":32, ""Y"":53}",1,180
+db_area_9000_deploy_location.xlsm,b_0,21,°¡½Ã 14,70001,45,39,Square,"{""X"":45, ""Y"":39}",1,0
+db_area_9000_deploy_location.xlsm,b_0,22,Å¸¿ö 1,70002,35,51,Square,"{""X"":35, ""Y"":51}",1,60
+db_area_9000_deploy_location.xlsm,b_0,23,Å¸¿ö 1,70002,50,49,Square,"{""X"":50, ""Y"":49}",1,30
+db_area_9000_deploy_location.xlsm,b_0,24,Å¸¿ö 1,70002,45,54,Square,"{""X"":45, ""Y"":54}",1,90
+db_area_9000_deploy_location.xlsm,b_0,25,Å¸¿ö 1,70002,20,42,Square,"{""X"":20, ""Y"":42}",1,180
+db_area_9000_deploy_location.xlsm,b_0,26,Å¸¿ö 2,70003,20,42,Square,"{""X"":20, ""Y"":42}",1,60
+db_area_9000_deploy_location.xlsm,b_0,27,Å¸¿ö 2,70003,16,48,Square,"{""X"":16, ""Y"":48}",1,30
+db_area_9000_deploy_location.xlsm,b_0,28,Å¸¿ö 2,70003,17,53,Square,"{""X"":17, ""Y"":53}",1,90
+db_area_9000_deploy_location.xlsm,b_0,29,Å¸¿ö 2,70003,47,39,Square,"{""X"":47, ""Y"":39}",1,180
+db_area_901_deploy_location.xlsm,b_0,1,º¸½º ¼³ÀÎ,40060,34,37,Position,"{""X"":34, ""Y"":37}",3,180
+db_area_901_deploy_location.xlsm,b_0,2,Áß°£º¸½º Á¤·É,30060,44,33,Position,"{""X"":44, ""Y"":33}",3,180
+db_area_901_deploy_location.xlsm,b_0,3,Áß°£º¸½º ¼³ÀÎ,30061,32,50,Position,"{""X"":32, ""Y"":50}",3,180
+db_area_901_deploy_location.xlsm,b_0,4,Áß°£º¸½º Á¤·É,30060,23,23,Position,"{""X"":23, ""Y"":23}",3,180
+db_area_901_deploy_location.xlsm,b_0,5,¼³ÀÎ,30061,26,21,Position,"{""X"":26, ""Y"":21}",3,180
+db_area_901_deploy_location.xlsm,b_0,6,¼³ÀÎ,30061,32,53,Position,"{""X"":32, ""Y"":53}",3,180
+db_area_901_deploy_location.xlsm,b_0,7,¼³ÀÎ,30061,47,30,Position,"{""X"":47, ""Y"":30}",3,180
+db_area_901_deploy_location.xlsm,b_0,8,Á¤·É,30062,32,46,Position,"{""X"":32, ""Y"":46}",3,180
+db_area_901_deploy_location.xlsm,b_0,9,Á¤·É,30062,47,35,Position,"{""X"":47, ""Y"":35}",3,180
+db_area_901_deploy_location.xlsm,b_0,10,Á¤·É,30062,20,22,Position,"{""X"":20, ""Y"":22}",3,180
+db_area_931_deploy_location.xlsm,b_0,1,Boss ¾óÀ½ °ñ·½,42020,32,35,Position,"{""X"":32,""Y"":35}",0,180
+db_area_931_deploy_location.xlsm,b_0,2,¿ø°Å¸®(¿ÞÂÊ),32021,15,30,Position,"{""X"":15,""Y"":30}",0,180
+db_area_931_deploy_location.xlsm,b_0,3,¿ø°Å¸®(¿À¸¥ÂÊ),32021,43,28,Position,"{""X"":43,""Y"":28}",0,180
+db_area_931_deploy_location.xlsm,b_0,4,¿ø°Å¸®(Áß¾Ó¿À¸¥ÂÊ),32021,50,35,Position,"{""X"":50,""Y"":35}",0,180
+db_area_931_deploy_location.xlsm,b_0,5,±Ù°Å¸®(Áß¾Ó¿ÞÂÊ),32020,20,35,Position,"{""X"":20,""Y"":35}",0,180
+db_area_931_deploy_location.xlsm,b_0,6,±Ù°Å¸®(¿À¸¥ÂÊ),32020,43,40,Position,"{""X"":43,""Y"":40}",0,180
+db_area_931_deploy_location.xlsm,b_0,7,±Ù°Å¸®(¿ÞÂÊ),32020,26,43,Position,"{""X"":26,""Y"":43}",0,180
+db_area_931_deploy_location.xlsm,b_0,8,Å¸¿ö,70003,22,41,Position,"{""X"":22,""Y"":41}",0,180
+db_area_931_deploy_location.xlsm,b_0,9,Å¸¿ö,70003,39,41,Position,"{""X"":39,""Y"":41}",0,180
+db_area_933_deploy_location.xlsm,b_0,1,[SoloBoss] °Å´ë °ñ·½,40070,39,39,Position,"{""X"":39, ""Y"":39}",3,180
+db_area_933_deploy_location.xlsm,b_0,2,½½¶óÀÓ[ºù],30070,41,48,Position,"{""X"":41, ""Y"":48}",3,180
+db_area_933_deploy_location.xlsm,b_0,3,½½¶óÀÓ[ºù],30070,51,45,Position,"{""X"":51, ""Y"":45}",3,180
+db_area_933_deploy_location.xlsm,b_0,4,½½¶óÀÓ[ºù],30070,54,37,Position,"{""X"":54, ""Y"":37}",3,180
+db_area_933_deploy_location.xlsm,b_0,5,½½¶óÀÓ[ºù],30070,50,29,Position,"{""X"":50, ""Y"":29}",3,180
+db_area_933_deploy_location.xlsm,b_0,6,½½¶óÀÓ[ºù],30070,40,27,Position,"{""X"":40, ""Y"":27}",3,180
+db_area_933_deploy_location.xlsm,b_0,7,½½¶óÀÓ[ºù],30070,30,30,Position,"{""X"":30, ""Y"":30}",3,180
+db_area_933_deploy_location.xlsm,b_0,8,½½¶óÀÓ[ºù],30070,26,38,Position,"{""X"":26, ""Y"":38}",3,180
+db_area_933_deploy_location.xlsm,b_0,9,½½¶óÀÓ[ºù],30070,32,45,Position,"{""X"":32, ""Y"":45}",3,180
+db_area_933_deploy_location.xlsm,b_0,10,°ñ·½ ±Ù°Å¸®,30072,46,47,Position,"{""X"":46, ""Y"":47}",3,180
+db_area_933_deploy_location.xlsm,b_0,11,°ñ·½ ±Ù°Å¸®,30072,53,41,Position,"{""X"":53, ""Y"":41}",3,180
+db_area_933_deploy_location.xlsm,b_0,12,°ñ·½ ±Ù°Å¸®,30072,53,33,Position,"{""X"":53, ""Y"":33}",3,180
+db_area_933_deploy_location.xlsm,b_0,13,°ñ·½ ±Ù°Å¸®,30072,45,28,Position,"{""X"":45, ""Y"":28}",3,180
+db_area_933_deploy_location.xlsm,b_0,14,°ñ·½ ±Ù°Å¸®,30072,34,28,Position,"{""X"":34, ""Y"":28}",3,180
+db_area_933_deploy_location.xlsm,b_0,15,°ñ·½ ±Ù°Å¸®,30072,27,34,Position,"{""X"":27, ""Y"":34}",3,180
+db_area_933_deploy_location.xlsm,b_0,16,°ñ·½ ±Ù°Å¸®,30072,28,43,Position,"{""X"":28, ""Y"":43}",3,180
+db_area_933_deploy_location.xlsm,b_0,17,°ñ·½ ±Ù°Å¸®,30072,36,48,Position,"{""X"":36, ""Y"":48}",3,180
+db_area_933_deploy_location.xlsm,b_0,18,°ñ·½ ¿ø°Å¸®,30073,37,46,Position,"{""X"":37, ""Y"":46}",3,180
+db_area_933_deploy_location.xlsm,b_0,19,°ñ·½ ¿ø°Å¸®,30073,52,38,Position,"{""X"":52, ""Y"":38}",3,180
+db_area_933_deploy_location.xlsm,b_0,20,°ñ·½ ¿ø°Å¸®,30073,33,30,Position,"{""X"":33, ""Y"":30}",3,180
+db_area_951_deploy_location.xlsm,b_0,1,[SoloBoss] °Å´ëÇÑ ´«Á¤·É,40090,35,40,Position,"{""X"":35, ""Y"":40}",2,180
+db_area_951_deploy_location.xlsm,b_0,2,»ó´Ü 1 - ÀÛÀº ´«Á¤·É,30090,46,60,Position,"{""X"":46, ""Y"":60}",2,180
+db_area_951_deploy_location.xlsm,b_0,3,»ó´Ü 2 - ´«Á¤·É,30091,49,60,Position,"{""X"":49, ""Y"":60}",2,180
+db_area_951_deploy_location.xlsm,b_0,4,ÇÏ´Ü ÁÂÃø 1 - ÀÛÀº ´«Á¤·É,30090,16,36,Position,"{""X"":16, ""Y"":36}",2,180
+db_area_951_deploy_location.xlsm,b_0,5,ÇÏ´Ü ÁÂÃø 2 - ´«Á¤·É,30091,15,32,Position,"{""X"":15, ""Y"":32}",2,180
+db_area_951_deploy_location.xlsm,b_0,6,ÇÏ´Ü ¿ìÃø 1 - ÀÛÀº ´«Á¤·É,30090,48,29,Position,"{""X"":48, ""Y"":29}",2,180
+db_area_951_deploy_location.xlsm,b_0,7,ÇÏ´Ü ¿ìÃø 2 - ´«Á¤·É,30091,45,26,Position,"{""X"":45, ""Y"":26}",2,180
+db_area_952_deploy_location.xlsm,b_0,1,[SoloBoss] °Å´ëÇÑ ´«Á¤·É,40090,35,40,Position,"{""X"":35, ""Y"":40}",2,180
+db_area_952_deploy_location.xlsm,b_0,2,»ó´Ü 1 - ÀÛÀº ´«Á¤·É,30090,46,60,Position,"{""X"":46, ""Y"":60}",2,180
+db_area_952_deploy_location.xlsm,b_0,3,»ó´Ü 2 - ´«Á¤·É,30091,49,60,Position,"{""X"":49, ""Y"":60}",2,180
+db_area_952_deploy_location.xlsm,b_0,4,ÇÏ´Ü ÁÂÃø 1 - ÀÛÀº ´«Á¤·É,30090,16,36,Position,"{""X"":16, ""Y"":36}",2,180
+db_area_952_deploy_location.xlsm,b_0,5,ÇÏ´Ü ÁÂÃø 2 - ´«Á¤·É,30091,15,32,Position,"{""X"":15, ""Y"":32}",2,180
+db_area_952_deploy_location.xlsm,b_0,6,ÇÏ´Ü ¿ìÃø 1 - ÀÛÀº ´«Á¤·É,30090,48,29,Position,"{""X"":48, ""Y"":29}",2,180
+db_area_952_deploy_location.xlsm,b_0,7,ÇÏ´Ü ¿ìÃø 2 - ´«Á¤·É,30091,45,26,Position,"{""X"":45, ""Y"":26}",2,180
+db_area_953_deploy_location.xlsm,b_0,1,[SoloBoss] ½½¶óÀÓ,40010,35,51,Position,"{""X"":35, ""Y"":51}",3,180
+db_area_953_deploy_location.xlsm,b_0,2,"½½¶óÀÓ[1,2,3,4wave]",30010,50,49,Position,"{""X"":50, ""Y"":49}",3,180
+db_area_953_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[2,3,4wave]",30010,45,54,Position,"{""X"":45, ""Y"":54}",3,180
+db_area_953_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[2,3,4wave]",30010,20,42,Position,"{""X"":20, ""Y"":42}",3,180
+db_area_953_deploy_location.xlsm,b_0,5,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,16,48,Position,"{""X"":16, ""Y"":48}",3,180
+db_area_953_deploy_location.xlsm,b_0,6,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,17,53,Position,"{""X"":17, ""Y"":53}",3,180
+db_area_953_deploy_location.xlsm,b_0,7,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,47,39,Position,"{""X"":47, ""Y"":39}",3,180
+db_area_954_deploy_location.xlsm,b_0,1,[SoloBoss] ½½¶óÀÓ,40010,35,51,Position,"{""X"":35, ""Y"":51}",3,180
+db_area_954_deploy_location.xlsm,b_0,2,"½½¶óÀÓ[1,2,3,4wave]",30010,50,49,Position,"{""X"":50, ""Y"":49}",3,180
+db_area_954_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[2,3,4wave]",30010,45,54,Position,"{""X"":45, ""Y"":54}",3,180
+db_area_954_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[2,3,4wave]",30010,20,42,Position,"{""X"":20, ""Y"":42}",3,180
+db_area_954_deploy_location.xlsm,b_0,5,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,16,48,Position,"{""X"":16, ""Y"":48}",3,180
+db_area_954_deploy_location.xlsm,b_0,6,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,17,53,Position,"{""X"":17, ""Y"":53}",3,180
+db_area_954_deploy_location.xlsm,b_0,7,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,47,39,Position,"{""X"":47, ""Y"":39}",3,180
+db_area_955_deploy_location.xlsm,b_0,1,[SoloBoss] ½½¶óÀÓ,40010,35,51,Position,"{""X"":35, ""Y"":51}",3,180
+db_area_955_deploy_location.xlsm,b_0,2,"½½¶óÀÓ[1,2,3,4wave]",30010,50,49,Position,"{""X"":50, ""Y"":49}",3,180
+db_area_955_deploy_location.xlsm,b_0,3,"½½¶óÀÓ[2,3,4wave]",30010,45,54,Position,"{""X"":45, ""Y"":54}",3,180
+db_area_955_deploy_location.xlsm,b_0,4,"½½¶óÀÓ[2,3,4wave]",30010,20,42,Position,"{""X"":20, ""Y"":42}",3,180
+db_area_955_deploy_location.xlsm,b_0,5,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,16,48,Position,"{""X"":16, ""Y"":48}",3,180
+db_area_955_deploy_location.xlsm,b_0,6,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,17,53,Position,"{""X"":17, ""Y"":53}",3,180
+db_area_955_deploy_location.xlsm,b_0,7,"ÀÛÀº ¾¾¾Ñ[2,3,4wave]",30011,47,39,Position,"{""X"":47, ""Y"":39}",3,180
