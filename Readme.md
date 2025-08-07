@@ -8,9 +8,7 @@ Course Title: Python Data Visualization (파이썬 빅데이터 시각화)
 
 
 Course Information
-This project was conducted as part of a short-term course titled
-“Global Business Strategy for Technology Companies”
-offered by Dankook University in May 2024.
+This project was conducted as part of a short-term course titled “Global Business Strategy for Technology Companies”, offered by Dankook University during the first semester of 2024 (Spring 2024, 2-1), in May 2024.
 
 Subject: 글로벌기업의 기술비즈니스전략
 Format: Intensive short-term program
@@ -105,3 +103,4 @@ Quick Fix (Windows)
 
 License
   This repository is part of a course activity. Educational use only. All rights reserved by the instructor and institution.
+
