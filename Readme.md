@@ -1,3 +1,6 @@
+Dankook University, 2nd Year 1st Semester (Spring 2024)
+
+
 # Python Big Data Visualization
 
 This repository contains all assignments and lecture materials from the **"Big Data Visualization with Python"** course. The course focuses on practical applications of Python, **pandas** for data manipulation, and **Matplotlib/Seaborn** for creating insightful visualizations using real-world demographic datasets.
@@ -87,3 +90,4 @@ Due to recent updates in Matplotlib, Korean text may not display correctly. Add 
 
 ## License
 This repository is for educational use only as part of a course activity. All rights are reserved by the instructor and institution.
+
